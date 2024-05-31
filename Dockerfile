@@ -1,4 +1,4 @@
-FROM public.ecr.aws/docker/library/python:3.9.19-alpine3.20 
+FROM public.ecr.aws/docker/library/python:3.9.19
 
 WORKDIR /code
 
